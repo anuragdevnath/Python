@@ -34,4 +34,4 @@ print("Averaye of a and b: ", c)
 # 6. Write a python program to calculate the square of a number entered by the user.
 
 a = int(input("Enter number: "))
-print(f"Square of {a} is: ", a*a)
+print(f"Square of {a} is: ", a**2)
