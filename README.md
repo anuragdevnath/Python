@@ -1,5 +1,4 @@
-# 🐍 Python Practice by Anurag Devnath
-
+# 🐍 Python Practice
 Hey there! I’m Anurag Devnath — I break things, fix them, and sometimes accidentally make something cool in the process.
 
 This repo is where I mess around with Python. You’ll find small projects, random ideas, and lots of trial-and-error code. Nothing fancy — just me learning, building, and sometimes yelling at the terminal.
