@@ -1,7 +1,7 @@
 # 🐍 Python Practice
 Hey there! I’m Anurag Devnath — I break things, fix them, and sometimes accidentally make something cool in the process.
 
-This repo is where I mess around with Python. You’ll find small projects, random ideas, and lots of trial-and-error code. Nothing fancy — just me learning, building, and sometimes yelling at the terminal.
+This repoSitory is where I mess around with Python. You’ll find small projects, random ideas, and lots of trial-and-error code. Nothing fancy — just me learning, building, and sometimes yelling at the terminal.
 
 It’s not perfect. It’s not pretty. But it’s real.
 Check it out if you're curious — or bored. That works too.
